@@ -1,2 +1,2 @@
 # ELEMENTS-OF-PROGRAMMING-INTERVIEWS-IN-pyhton
-Elements of programming Interviews aim to have  some questions  interviewing for software development positions
+In this repository, I have implemented and tested the solutions to some of the problems in EPI book. I will update these files regularly by adding solutions to more problems
