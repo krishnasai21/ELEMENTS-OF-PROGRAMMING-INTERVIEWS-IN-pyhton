@@ -2,7 +2,7 @@
 
 Aims to help the engineers like me(B.Tech Mechanical Engnieer) for interviews for positons/ job roles like software development
 
-##Primary focus of this EPI - Elements of Programming Interviews was
+## Primary focus of this EPI - Elements of Programming Interviews was
 ```
 Data-structures
 Algorithms
