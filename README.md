@@ -1,6 +1,9 @@
 # Elements of Programming Interviews (EPI)
 
-Aims to help the engineers like me who are getting ready for interviews software development
+Aims to help the engineers like me who are getting ready for interviews software development.
+
+## Best Interview preparation
+                              The best interview preparation is a combination of hands-on pratice over a reperesentation set of problems with quality test cases and explanations
 
 ## Primary focus of this EPI - Elements of Programming Interviews was
 ```
